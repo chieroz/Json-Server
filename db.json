@@ -1,33 +1,34 @@
 {
-	"assignments": [{
-			"name": "Laoreet parturient rutrumz",
-			"complete": false,
-			"id": 1,
-			"tag": "math"
-		},
-		{
-			"name": "Maximus tortor egestas",
-			"complete": false,
-			"id": 2,
-			"tag": "science"
-		},
-		{
-			"name": "Ad nisl metus",
-			"complete": false,
-			"id": 3,
-			"tag": "math"
-		},
-		{
-			"name": "Per posuere arcu mauris",
-			"complete": true,
-			"id": 4,
-			"tag": "programming"
-		},
-		{
-			"name": "Molestie aenean tempor",
-			"complete": true,
-			"id": 4,
-			"tag": "science"
-		}
-	]
+    "assignments": [
+        {
+            "name": "Laoreet parturient rutrumz",
+            "complete": false,
+            "id": 1,
+            "tag": "math"
+        },
+        {
+            "name": "Maximus tortor egestas",
+            "complete": false,
+            "id": 2,
+            "tag": "science"
+        },
+        {
+            "name": "Ad nisl metus",
+            "complete": false,
+            "id": 3,
+            "tag": "math"
+        },
+        {
+            "name": "Per posuere arcu mauris",
+            "complete": true,
+            "id": 4,
+            "tag": "programming"
+        },
+        {
+            "name": "Molestie aenean tempor",
+            "complete": true,
+            "id": 4,
+            "tag": "science"
+        }
+    ]
 }
