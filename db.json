@@ -29,24 +29,5 @@
 			"id": 4,
 			"tag": "science"
 		}
-	],
-	"books": [{
-			"id": 1,
-			"title": "Infinite Jest",
-			"author": "David Foster Wallace",
-			"pages": 1200
-		},
-		{
-			"id": 2,
-			"title": "Viaggio al termine della notte",
-			"author": "Louis Ferdinand Celine",
-			"pages": 500
-		},
-		{
-			"id": 3,
-			"title": "La neve era sporca",
-			"author": "Georges Simenon",
-			"pages": 180
-		}
 	]
 }
