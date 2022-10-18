@@ -87,6 +87,16 @@
           "date": "July 22, 2022",
           "time": "11:00",
           "organizer": "Carey Wales"
+        },
+        {
+          "id": 1232,
+          "category": "food",
+          "title": "Pizza for Dummies",
+          "description": "Ad pretium aenean congue lobortis mollis.",
+          "location": "Monastero Bormida",
+          "date": "November 4, 2022",
+          "time": "18:00",
+          "organizer": "Avraham Abulafia"
         }
       ]
 }
